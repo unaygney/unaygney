@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Guney
-#### I am GitHub Readme Generator's creator
-I'm a passionate front-end developer with a strong interest in web development and a focus on React.js.
+#### I'm a passionate front-end developer with a strong interest in web development and a focus on React.js.
 
 - 🔭 I'm currently working on honing my skills in **React.js**, **JavaScript**, **HTML**, **CSS**, and **Sass**.
 - 🌱 I'm eager to learn and explore new front-end technologies and trends to stay up-to-date with the industry.
