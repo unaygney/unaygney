@@ -12,6 +12,7 @@
  <a target="_blank" href="mailto:unaygney17@gmail.com">  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> </a>
 </div>
 
+
 ###
 
 <div align="center">
@@ -53,12 +54,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
-###
 
 
-
-
-###
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
