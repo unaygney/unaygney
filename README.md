@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">My name is Guney and I'm a Frontend Developer, from Turkey<br><br>🔭 I'm currently working on honing my skills in React.js, JavaScript, HTML, CSS, and Sass.<br>🌱 I'm eager to learn and explore new front-end technologies and trends to stay up-to-date with the industry.<br>💼 I'm actively seeking opportunities to contribute to open-source projects and collaborate with other developers.<br>🚀 My main goal is to create user-friendly and visually appealing web applications that make a positive impact.</p>
+<p align="left">My name is Guney and I'm a Frontend Developer, from Turkey<br><br>🔭 I'm currently working on honing my skills in React.js,Next.js, JavaScript, Tailwindcss, HTML, CSS, and Sass.<br>🌱 I am a frontend developer who develops with passion.</p>
 
 ###
 
