@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 ###
 
@@ -66,6 +66,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
   <img width="12" />
   <img src="https://testing-library.com/img/octopus-128x128.png" height="40" alt="react testing library logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 </div>
 
 ###
@@ -77,5 +85,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=unaygney&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
-
-###
