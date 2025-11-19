@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">🤓 My name is Guney and I'm a Frontend Developer, from Turkey.</p>
+<p align="left">🤓 My name is Guney and I'm a Software Developer, from Turkey.</p>
 
 <p align="left">🌟 I have worked on numerous projects and continue to create, showcasing my passion and skills in various technologies.</p>
 
